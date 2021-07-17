@@ -1,0 +1,14 @@
+.logo{
+    width:100px;
+    height:auto;
+    border:2px solid black 3px ;
+    box-shadow: 2px 2px 5px ;
+    background: linear-gradient(to right, rgb(198, 36, 147), rgb(249, 158, 1));
+    margin-left: 10px;
+    display:flex;
+    justify-content:left;
+}
+img{
+     
+    margin-left:10px;
+}

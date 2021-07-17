@@ -1,0 +1,27 @@
+.input{
+    display:flex;
+    justify-content:center;
+    
+    padding:20px;
+    box-shadow:2px 2px 5px ;
+    width:500px;
+    margin-bottom: 20px;
+   
+}
+
+.all{
+     display:flex;
+    justify-content:center;
+    margin-top: 10px;
+    
+
+}
+.ibox{
+     width:70%;
+    height:30px;
+}
+.ibut{
+    width:20%;
+    height:30px;
+    
+}

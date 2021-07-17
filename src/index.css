@@ -1,0 +1,16 @@
+body {
+   font-family: 'Courier New', Courier, monospace;
+   background: linear-gradient(to right, rgb(198, 36, 147), rgb(249, 158, 1));
+   
+}
+
+
+button{
+  cursor:pointer;
+  border-radius:10px;
+}
+
+.center{
+  display:flex;
+  justify-content:center;
+}
